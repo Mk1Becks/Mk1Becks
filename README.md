@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm [Taris] 👋
 
-<!--
-**Taris-Beck/Taris-Beck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Data Analytics
 
-Here are some ideas to get you started:
+I'm currently developing my skills in data analysis, databases and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Data Science / Coding Student at WBS Coding School**
+
+---
+
+## 🛠️ Currently learning
+
+- SQL & MySQL
+- Data Analysis
+- Python
+- Git & GitHub
+- Databases
+
+## 📊 Projects
+
+🔹 SQL Database Analysis  
+🔹 IMDb Data Analysis  
+🔹 Employee Data Analysis  
+
+## 🎯 Goal
+
+Building practical data projects and developing my skills
+towards a career in Data Science / Data Analytics.
+
+---
+
+## 📫 Connect with me
+
+[LinkedIn] https://de.linkedin.com/in/taris-b-0b65473a8
