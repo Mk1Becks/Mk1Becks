@@ -38,7 +38,7 @@ I enjoy turning raw data into clear insights, and I'm building a portfolio of pr
 
 | Project | What it is | Tools |
 |---------|-----------|-------|
-| 🛒 [**Eniac × Magist**](https://github.com/YOUR-USERNAME/YOUR-REPO) | Team project: Should a European tech company partner with a Brazilian e-commerce provider? Analysis of products, sellers, delivery and customer satisfaction. | SQL, Tableau |
+| 🛒 [**Eniac × Magist**]((https://github.com/Mk1Becks/Eniac-x-Magist-Brazilian-E-Commerce-Analysis)) | Team project: Should a European tech company partner with a Brazilian e-commerce provider? Analysis of products, sellers, delivery and customer satisfaction. | SQL, Tableau |
 | 🎬 [**IMDb Data Analysis**](https://github.com/YOUR-USERNAME/YOUR-REPO) | Analysis of movie data from IMDb. | SQL |
 | 👥 [**Employee Data Analysis**](https://github.com/YOUR-USERNAME/YOUR-REPO) | Analysis of employee data in a relational database. | SQL |
 | 🗃️ [**SQL Database Analysis**](https://github.com/YOUR-USERNAME/YOUR-REPO) | Queries and analysis on a relational database. | SQL, MySQL |
