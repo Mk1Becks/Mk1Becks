@@ -31,8 +31,8 @@ Mein Ziel ist ein Job in **Data Analytics / Data Science**. Hier sammle ich die 
 |---------|-------|
 | **Databases** | SQL, MySQL |
 | **Programming** | Python (Data Types, Lists & Dictionaries, Conditions, Loops, Functions, Debugging) |
-| **Data Analysis** | pandas (Data Cleaning, Datetime, Quality Assessment), seaborn |
-| **Visualization** | seaborn, Tableau  |
+| **Data Analysis** | pandas (DataFrames, Indexing & Filtering, groupby & merge, Data Cleaning, Datetime, String Methods) |
+| **Visualization** | pandas plots, seaborn, Tableau |
 | **Workflow** | Git, GitHub, Google Colab |
 
 ---
